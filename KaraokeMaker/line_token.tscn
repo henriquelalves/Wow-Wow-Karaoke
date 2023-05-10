@@ -1,0 +1,29 @@
+[gd_scene load_steps=4 format=3 uid="uid://bsraf58qrlao2"]
+
+[ext_resource type="Script" path="res://KaraokeMaker/line_token.gd" id="1_q0ryb"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_cegbf"]
+font_size = 42
+
+[sub_resource type="LabelSettings" id="LabelSettings_ue5bc"]
+font_size = 26
+
+[node name="LineToken" type="VBoxContainer"]
+script = ExtResource("1_q0ryb")
+
+[node name="TokenLabel" type="Label" parent="."]
+unique_name_in_owner = true
+layout_mode = 2
+text = "Test"
+label_settings = SubResource("LabelSettings_cegbf")
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="TimestampLabel" type="Label" parent="."]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_vertical = 6
+text = "0"
+label_settings = SubResource("LabelSettings_ue5bc")
+horizontal_alignment = 1
+vertical_alignment = 1

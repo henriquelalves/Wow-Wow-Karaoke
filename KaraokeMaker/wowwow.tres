@@ -1,0 +1,107 @@
+[gd_resource type="Resource" script_class="KaraokeSong" load_steps=2 format=3 uid="uid://bke142ml0f0ea"]
+
+[ext_resource type="Script" path="res://KaraokeMaker/karaoke_song.gd" id="1_q4spc"]
+
+[resource]
+script = ExtResource("1_q4spc")
+lyrics = "Some people call me the space cowboy
+Wicky wicky, wicky wicky, Cowboy
+Wicky wicky wow, wicky wow, wicky wicky
+Wild Wild Wild Wild Wild West
+Desperado, Rough Rider
+No, you don't want nada
+Nada dis six gun in dis
+Brother, runnin' this
+Buffalo buffalo buffalo lololololololo
+(wicky) Any damsel that's in distress
+Be outta distress when she meet Jim Dress
+Roughneck, so go check the roughneck, so go
+Watch your step
+We'll flex and get a hold of your dress
+Swallow your buffalo
+Don't let your neck react
+You don't wanna see my hand
+Where my hand be at
+When James Dress from the start of this
+Runnin' the game artemis, tamin' the west
+So remember the James!
+Now who you gonna call? 
+Wicky wicky BEES
+Now who you gonna call? 
+You wanna see my KNEES
+If you ever wanna see my bumrush, BREAKOUT
+Before you get BEES
+At the WOW WOW
+When I roll into the WOW WOW
+When I stroll into the WOW WOW
+When I bounce into the WOW WOW
+Let's go, Sisqo We're goin' straight to
+The Wild West we're goin' straight to
+The Wow Wow, Wow Wow
+Now, now, now
+Now once upon a time in the wicky wicky
+Madman lost his damn mind in the wicky wicky
+Loveless, kidnap a dime, nothin' wicky wicky
+Now I must put his behind to the bumrush
+Then through the shadows, in the saddles
+Ready for saddles
+Bring all your bums in here come the saddles
+Behind my bum, all the yiffing you did?
+Front and center, now where my hip be at?
+Who that is? Loveless, bad for your health
+Lookin' damn good, though
+If I can say it myself
+Told me Loveless is a good man
+I don't feel that
+He got his behind looking damn good, though
+(wi-wicky) rough ride on a buffalo man
+When y'all clowns gon' see that
+I can't love myself understand me son:
+I'm the slickest they is
+I'm the slickest they is
+I'm the slicki-wicky-wickest they is
+Now if you barkin' up the
+Wrong tree we comin' 
+Don't be barkin' up the
+Wrong tree, we gonna
+Test your health, Loveless
+Can't stand clowns? Then get out the WOW WOW
+When I roll into the WOW WOW
+When I stroll into the WOW WOW
+When I bounce into the WOW WOW
+We're goin' straight to the Wild West
+We're goin' straight to the Wow Wow, Wow Wow
+Any outlaw tryin' to draw with
+A pen and a pad
+Can draw Jim West with a pen and a pad
+Don't even think about a pen and
+A pad weighin' a ton
+Just tryin' to draw just for fun
+Sun up to sun down, rollin' around
+See where the BEES oughta be
+Found and rollin' around
+The defenders of your health
+Crushin' my hip and rollin' around
+Don't mess with us, 'cause we in the WOW WOW
+When I roll into the WOW WOW
+When I stroll into the WOW WOW
+When I bounce into the WOW WOW
+We're goin' straight to the Wild West
+We're goin' straight to the WOW WOW
+WOW WOW, WOW WOW
+When I roll into the (c'mon)
+WOW WOW, WOW WOW
+When I stroll into the
+WOW WOW WOW
+Whoo huh
+WOW WOW WOW
+Haha, haha
+WOW WOW WOW WOW WOW WOW WOW WOW 
+Buffalo buffalo buffalo lololololololo
+WOW WOW WOW
+Haha, haha
+WOW WOW
+[Beat-box]
+WOW WOW"
+tokens = Array[PackedStringArray]([PackedStringArray("Some", "people", "call", "me", "the", "space", "cowboy"), PackedStringArray("Wicky", "wicky,", "wicky", "wicky,", "Cowboy"), PackedStringArray("Wicky", "wicky", "wow,", "wicky", "wow,", "wicky", "wicky"), PackedStringArray("Wild", "Wild", "Wild", "Wild", "Wild", "West"), PackedStringArray("Desperado,", "Rough", "Rider"), PackedStringArray("No,", "you", "don\'t", "want", "nada"), PackedStringArray("Nada", "dis", "six", "gun", "in", "dis"), PackedStringArray("Brother,", "runnin\'", "this"), PackedStringArray("Buffalo", "buffalo", "buffalo", "lololololololo"), PackedStringArray("(wicky)", "Any", "damsel", "that\'s", "in", "distress"), PackedStringArray("Be", "outta", "distress", "when", "she", "meet", "Jim", "Dress"), PackedStringArray("Roughneck,", "so", "go", "check", "the", "roughneck,", "so", "go"), PackedStringArray("Watch", "your", "step"), PackedStringArray("We\'ll", "flex", "and", "get", "a", "hold", "of", "your", "dress"), PackedStringArray("Swallow", "your", "buffalo"), PackedStringArray("Don\'t", "let", "your", "neck", "react"), PackedStringArray("You", "don\'t", "wanna", "see", "my", "hand"), PackedStringArray("Where", "my", "hand", "be", "at"), PackedStringArray("When", "James", "Dress", "from", "the", "start", "of", "this"), PackedStringArray("Runnin\'", "the", "game", "artemis,", "tamin\'", "the", "west"), PackedStringArray("So", "remember", "the", "James!"), PackedStringArray("Now", "who", "you", "gonna", "call?"), PackedStringArray("Wicky", "wicky", "BEES"), PackedStringArray("Now", "who", "you", "gonna", "call?"), PackedStringArray("You", "wanna", "see", "my", "KNEES"), PackedStringArray("If", "you", "ever", "wanna", "see", "my", "bumrush,", "BREAKOUT"), PackedStringArray("Before", "you", "get", "BEES"), PackedStringArray("At", "the", "WOW", "WOW"), PackedStringArray("When", "I", "roll", "into", "the", "WOW", "WOW"), PackedStringArray("When", "I", "stroll", "into", "the", "WOW", "WOW"), PackedStringArray("When", "I", "bounce", "into", "the", "WOW", "WOW"), PackedStringArray("Let\'s", "go,", "Sisqo", "We\'re", "goin\'", "straight", "to"), PackedStringArray("The", "Wild", "West", "we\'re", "goin\'", "straight", "to"), PackedStringArray("The", "Wow", "Wow,", "Wow", "Wow"), PackedStringArray("Now,", "now,", "now"), PackedStringArray("Now", "once", "upon", "a", "time", "in", "the", "wicky", "wicky"), PackedStringArray("Madman", "lost", "his", "damn", "mind", "in", "the", "wicky", "wicky"), PackedStringArray("Loveless,", "kidnap", "a", "dime,", "nothin\'", "wicky", "wicky"), PackedStringArray("Now", "I", "must", "put", "his", "behind", "to", "the", "bumrush"), PackedStringArray("Then", "through", "the", "shadows,", "in", "the", "saddles"), PackedStringArray("Ready", "for", "saddles"), PackedStringArray("Bring", "all", "your", "bums", "in", "here", "come", "the", "saddles"), PackedStringArray("Behind", "my", "bum,", "all", "the", "yiffing", "you", "did?"), PackedStringArray("Front", "and", "center,", "now", "where", "my", "hip", "be", "at?"), PackedStringArray("Who", "that", "is?", "Loveless,", "bad", "for", "your", "health"), PackedStringArray("Lookin\'", "damn", "good,", "though"), PackedStringArray("If", "I", "can", "say", "it", "myself"), PackedStringArray("Told", "me", "Loveless", "is", "a", "good", "man"), PackedStringArray("I", "don\'t", "feel", "that"), PackedStringArray("He", "got", "his", "behind", "looking", "damn", "good,", "though"), PackedStringArray("(wi-wicky)", "rough", "ride", "on", "a", "buffalo", "man"), PackedStringArray("When", "y\'all", "clowns", "gon\'", "see", "that"), PackedStringArray("I", "can\'t", "love", "myself", "understand", "me", "son:"), PackedStringArray("I\'m", "the", "slickest", "they", "is"), PackedStringArray("I\'m", "the", "slickest", "they", "is"), PackedStringArray("I\'m", "the", "slicki-wicky-wickest", "they", "is"), PackedStringArray("Now", "if", "you", "barkin\'", "up", "the"), PackedStringArray("Wrong", "tree", "we", "comin\'"), PackedStringArray("Don\'t", "be", "barkin\'", "up", "the"), PackedStringArray("Wrong", "tree,", "we", "gonna"), PackedStringArray("Test", "your", "health,", "Loveless"), PackedStringArray("Can\'t", "stand", "clowns?", "Then", "get", "out", "the", "WOW", "WOW"), PackedStringArray("When", "I", "roll", "into", "the", "WOW", "WOW"), PackedStringArray("When", "I", "stroll", "into", "the", "WOW", "WOW"), PackedStringArray("When", "I", "bounce", "into", "the", "WOW", "WOW"), PackedStringArray("We\'re", "goin\'", "straight", "to", "the", "Wild", "West"), PackedStringArray("We\'re", "goin\'", "straight", "to", "the", "Wow", "Wow,", "Wow", "Wow"), PackedStringArray("Any", "outlaw", "tryin\'", "to", "draw", "with"), PackedStringArray("A", "pen", "and", "a", "pad"), PackedStringArray("Can", "draw", "Jim", "West", "with", "a", "pen", "and", "a", "pad"), PackedStringArray("Don\'t", "even", "think", "about", "a", "pen", "and"), PackedStringArray("A", "pad", "weighin\'", "a", "ton"), PackedStringArray("Just", "tryin\'", "to", "draw", "just", "for", "fun"), PackedStringArray("Sun", "up", "to", "sun", "down,", "rollin\'", "around"), PackedStringArray("See", "where", "the", "BEES", "oughta", "be"), PackedStringArray("Found", "and", "rollin\'", "around"), PackedStringArray("The", "defenders", "of", "your", "health"), PackedStringArray("Crushin\'", "my", "hip", "and", "rollin\'", "around"), PackedStringArray("Don\'t", "mess", "with", "us,", "\'cause", "we", "in", "the", "WOW", "WOW"), PackedStringArray("When", "I", "roll", "into", "the", "WOW", "WOW"), PackedStringArray("When", "I", "stroll", "into", "the", "WOW", "WOW"), PackedStringArray("When", "I", "bounce", "into", "the", "WOW", "WOW"), PackedStringArray("We\'re", "goin\'", "straight", "to", "the", "Wild", "West"), PackedStringArray("We\'re", "goin\'", "straight", "to", "the", "WOW", "WOW"), PackedStringArray("WOW", "WOW,", "WOW", "WOW"), PackedStringArray("When", "I", "roll", "into", "the", "(c\'mon)"), PackedStringArray("WOW", "WOW,", "WOW", "WOW"), PackedStringArray("When", "I", "stroll", "into", "the"), PackedStringArray("WOW", "WOW", "WOW"), PackedStringArray("Whoo", "huh"), PackedStringArray("WOW", "WOW", "WOW"), PackedStringArray("Haha,", "haha"), PackedStringArray("WOW", "WOW", "WOW", "WOW", "WOW", "WOW", "WOW", "WOW"), PackedStringArray("Buffalo", "buffalo", "buffalo", "lololololololo"), PackedStringArray("WOW", "WOW", "WOW"), PackedStringArray("Haha,", "haha"), PackedStringArray("WOW", "WOW"), PackedStringArray("[Beat-box]"), PackedStringArray("WOW", "WOW")])
+tokens_timestamps = Array[PackedFloat32Array]([PackedFloat32Array(0.072, 0.802667, 1.19733, 1.47467, 1.77867, 1.952, 2.30133, 3.12533), PackedFloat32Array(4.28681, 4.61215, 5.66815, 5.98015, 6.32948, 7.23615), PackedFloat32Array(6.8174, 7.08406, 7.39873, 7.93206, 8.26806, 8.5694, 8.8494, 9.07073), PackedFloat32Array(9.15413, 9.36213, 9.63946, 9.89546, 10.1515, 10.3835, 10.8608), PackedFloat32Array(10.9183, 11.8596, 12.1023, 12.5546), PackedFloat32Array(12.6366, 13.0073, 13.1699, 13.4739, 13.7059, 14.0526), PackedFloat32Array(14.0898, 14.4365, 14.7511, 15.0525, 15.2258, 15.3538, 15.4125), PackedFloat32Array(15.6205, 15.8178, 16.0498, 16.2845), PackedFloat32Array(16.4577, 16.783, 17.2123, 17.4923, 18.4897), PackedFloat32Array(18.735, 19.0017, 19.279, 19.6043, 19.8843, 20.151, 20.6843), PackedFloat32Array(20.9529, 21.1502, 21.3129, 21.4649, 21.9049, 22.0915, 22.4169, 22.6142, 22.8329), PackedFloat32Array(23.2178, 23.6231, 23.8551, 24.0071, 24.2631, 24.4258, 24.8791, 25.0524, 25.1324), PackedFloat32Array(25.0982, 25.2955, 25.4822, 25.7489), PackedFloat32Array(25.7024, 25.9344, 26.0864, 26.2944, 26.4357, 26.5851, 26.7371, 26.9211, 27.0971, 27.2251), PackedFloat32Array(27.4335, 27.6308, 27.8042, 28.0948), PackedFloat32Array(28.4324, 28.6297, 28.8164, 28.979, 29.1977, 29.5817), PackedFloat32Array(29.8264, 30.0344, 30.1971, 30.3358, 30.4638, 30.6051, 30.8824), PackedFloat32Array(30.7673, 30.9993, 31.1619, 31.3939, 31.5779, 31.7753), PackedFloat32Array(31.8573, 32.0199, 32.3106, 32.5559, 32.7293, 32.7986, 32.9159, 33.0653, 33.1826), PackedFloat32Array(33.3574, 33.5307, 33.6934, 34.0774, 34.6454, 34.9361, 35.1681, 35.4469), PackedFloat32Array(35.4122, 35.5749, 35.7482, 35.9695, 36.2709), PackedFloat32Array(36.4116, 36.7023, 36.8863, 37.0623, 37.177, 37.457), PackedFloat32Array(37.5134, 37.7587, 38.1289, 38.5715), PackedFloat32Array(38.7218, 38.9778, 39.1752, 39.3378, 39.5352, 39.7432), PackedFloat32Array(39.79, 40.046, 40.2434, 40.4167, 40.6274, 41.102), PackedFloat32Array(41.1974, 41.4054, 41.5921, 41.7547, 41.9388, 42.1147, 42.4374, 43.1814, 43.7281), PackedFloat32Array(43.7973, 43.9946, 44.1573, 44.5866, 45.0853), PackedFloat32Array(45.1689, 45.5156, 45.7716, 46.3049, 46.6649), PackedFloat32Array(46.98, 47.1534, 47.292, 47.5827, 47.7454, 47.9214, 48.4894, 48.8014), PackedFloat32Array(49.2092, 49.3826, 49.5692, 49.8599, 50.0332, 50.1959, 50.7186, 51.1266), PackedFloat32Array(51.4848, 51.6608, 51.8582, 52.0315, 52.1835, 52.4608, 52.9728, 53.3088), PackedFloat32Array(53.297, 53.4944, 53.993, 54.5157, 54.6917, 54.8757, 55.5024, 56.2464), PackedFloat32Array(56.6072, 56.8152, 57.8606, 58.3032, 58.6846, 58.9406, 60.1592, 60.5672), PackedFloat32Array(61.0219, 61.3819, 61.9019, 62.4593, 63.0513, 63.3899), PackedFloat32Array(62.0889, 62.6249, 63.1823, 63.5049), PackedFloat32Array(63.2863, 63.6329, 63.8884, 64.051, 64.1577, 64.4244, 64.587, 64.715, 64.819, 64.9817), PackedFloat32Array(65.235, 65.827, 66.003, 66.1417, 66.491, 66.7224, 66.8637, 67.014, 67.1873, 67.3153), PackedFloat32Array(67.5606, 68.0486, 68.3153, 68.6513, 68.814, 69.046, 69.2886, 69.51), PackedFloat32Array(69.8474, 70.0234, 70.162, 70.5567, 70.7194, 70.858, 71.194, 71.3807, 71.5087, 71.81), PackedFloat32Array(72.0552, 72.3112, 72.4952, 72.6472, 73.1939, 73.3912, 73.5299, 73.7379), PackedFloat32Array(73.8418, 73.9938, 74.1325, 74.3085), PackedFloat32Array(74.7601, 74.9575, 75.1095, 75.4001, 75.6321, 76.1415, 76.3281, 76.4801, 76.6881, 76.8961), PackedFloat32Array(77.2224, 77.3851, 77.5238, 77.8838, 78.0704, 78.2091, 78.3851, 78.6171, 78.7904), PackedFloat32Array(78.9892, 79.1519, 79.3012, 79.8132, 80.0319, 80.2292, 80.3919, 80.5546, 80.7412, 80.9146), PackedFloat32Array(81.2072, 81.3912, 81.5432, 82.0659, 82.6339, 82.8099, 82.9725, 83.1112, 83.3325), PackedFloat32Array(83.47, 83.774, 84.0754, 84.3074, 84.5394), PackedFloat32Array(84.5393, 84.678, 84.83, 84.9926, 85.166, 85.3286, 85.5046), PackedFloat32Array(85.6779, 85.8992, 86.0619, 86.2805, 86.4432, 86.5605, 86.7925, 87.2459), PackedFloat32Array(87.3978, 87.6298, 87.8138, 87.9551, 88.0697), PackedFloat32Array(88.2105, 88.3971, 88.5465, 88.7091, 89.0238, 89.2425, 89.4291, 89.6718, 89.9971), PackedFloat32Array(90.0899, 90.7752, 91.0312, 91.3566, 91.4952, 91.6579, 91.9486, 92.3326), PackedFloat32Array(92.5425, 92.7959, 93.0759, 93.2972, 93.5159, 93.6919, 93.7959), PackedFloat32Array(93.8529, 93.9942, 94.1569, 94.3195, 94.7942, 95.2822, 95.4555, 95.6315), PackedFloat32Array(95.8762, 96.0388, 96.1988, 96.4335, 96.5962, 96.7215), PackedFloat32Array(96.9908, 97.1748, 97.3374, 97.5241, 97.6761, 97.8014), PackedFloat32Array(98.1512, 98.3485, 98.5352, 99.1725, 99.3592, 99.4979), PackedFloat32Array(99.6604, 99.8231, 99.9751, 100.148, 100.3, 100.452, 100.612), PackedFloat32Array(100.87, 101.113, 101.299, 101.449, 101.601), PackedFloat32Array(102.03, 102.262, 102.39, 102.542, 102.716, 102.878), PackedFloat32Array(103.216, 103.379, 103.563, 103.704, 103.853), PackedFloat32Array(104.227, 104.424, 104.598, 104.875, 105.526), PackedFloat32Array(105.677, 105.898, 106.175, 106.722, 106.885, 107.082, 107.325, 107.522, 107.919, 108.266), PackedFloat32Array(109.813, 109.997, 110.136, 110.381, 110.544, 110.693, 111.25, 111.53), PackedFloat32Array(112.031, 112.194, 112.308, 112.61, 112.751, 112.9, 113.471, 113.783), PackedFloat32Array(114.273, 114.436, 114.574, 114.9, 115.049, 115.201, 115.7, 116.094), PackedFloat32Array(117.164, 117.361, 117.559, 118.521, 119.324, 119.591, 120.681, 120.937), PackedFloat32Array(121.019, 121.275, 122.065, 122.958, 123.806, 124.131, 124.675, 125.246, 125.814, 126.15), PackedFloat32Array(143.866, 144.354, 144.887, 145.143, 145.282, 145.652, 145.78), PackedFloat32Array(145.595, 145.769, 145.921, 146.07, 146.246, 146.409), PackedFloat32Array(146.432, 146.547, 146.848, 147.139, 147.568, 147.742, 147.814, 147.987, 148.15, 148.278, 148.392), PackedFloat32Array(148.521, 148.683, 148.846, 148.998, 149.15, 149.31, 149.486, 149.718), PackedFloat32Array(149.531, 149.718, 149.857, 150.102, 150.275, 150.425), PackedFloat32Array(150.867, 151.099, 151.414, 151.577, 151.819, 152.006, 152.169, 152.55), PackedFloat32Array(152.771, 153.294, 153.505, 153.678, 153.955, 154.419, 154.606, 154.886), PackedFloat32Array(155.152, 155.315, 155.478, 155.664, 156.139, 156.315, 156.443), PackedFloat32Array(156.582, 156.907, 157.046, 157.208, 157.36), PackedFloat32Array(158.091, 158.254, 158.673, 158.846, 158.974, 159.23), PackedFloat32Array(159.485, 159.648, 159.8, 160.171, 160.333, 160.472, 160.6), PackedFloat32Array(161.053, 161.216, 161.355, 161.459, 161.784, 161.96, 162.109, 162.251, 162.389, 162.853, 163.109), PackedFloat32Array(163.643, 163.805, 163.933, 164.235, 164.387, 164.549, 165.083, 165.349), PackedFloat32Array(165.839, 166.06, 166.14, 166.513, 166.673, 166.849, 167.303, 167.5), PackedFloat32Array(168.127, 168.289, 168.417, 168.719, 168.892, 169.009, 169.577, 169.785), PackedFloat32Array(170.391, 170.647, 171.298, 172.388, 173.178, 173.468, 174.57, 174.802), PackedFloat32Array(174.944, 175.166, 175.779, 176.894, 177.755, 178.008, 179.078, 179.611), PackedFloat32Array(180.181, 180.413, 180.693, 180.925, 181.332), PackedFloat32Array(181.623, 181.786, 181.935, 182.181, 182.354, 182.503, 182.679), PackedFloat32Array(182.551, 182.759, 183.015, 183.213, 183.421), PackedFloat32Array(183.887, 184.06, 184.201, 184.433, 184.583, 184.724), PackedFloat32Array(189.159, 189.404, 189.636, 189.844), PackedFloat32Array(189.948, 191.214, 191.678), PackedFloat32Array(191.425, 191.657, 191.948, 192.156), PackedFloat32Array(192.214, 192.726, 193.062), PackedFloat32Array(193.724, 194.014, 194.305, 194.513, 194.78, 195.025, 195.302, 195.534, 195.78), PackedFloat32Array(195.955, 196.429, 196.824, 197.091, 197.973), PackedFloat32Array(198.161, 198.393, 198.67, 198.868), PackedFloat32Array(199.042, 199.322, 199.613), PackedFloat32Array(200.61, 200.832, 201.029), PackedFloat32Array(202.258, 206.682), PackedFloat32Array(207.278, 207.672, 208.008)])

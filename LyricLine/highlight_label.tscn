@@ -1,0 +1,13 @@
+[gd_scene load_steps=2 format=3 uid="uid://d2cg2owlcips3"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_0frqo"]
+font_size = 42
+font_color = Color(0.933333, 0.8, 0, 1)
+outline_size = 10
+outline_color = Color(0, 0, 0, 1)
+
+[node name="HighlightLabel" type="Label"]
+offset_right = 1.0
+offset_bottom = 61.0
+label_settings = SubResource("LabelSettings_0frqo")
+horizontal_alignment = 1

@@ -1,0 +1,75 @@
+[gd_scene load_steps=6 format=3 uid="uid://cpwmfe7yi0wiv"]
+
+[ext_resource type="Script" path="res://KaraokeMaker/karaoke_maker.gd" id="1_qhulp"]
+[ext_resource type="AudioStream" uid="uid://bpxd1kpf1k48u" path="res://KaraokeMaker/wowwow.ogg" id="2_73x3m"]
+[ext_resource type="Resource" uid="uid://bke142ml0f0ea" path="res://KaraokeMaker/wowwow.tres" id="2_j448g"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_m37gn"]
+bg_color = Color(0.6, 0.6, 0.6, 0)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+expand_margin_left = 2.0
+expand_margin_top = 2.0
+expand_margin_right = 2.0
+expand_margin_bottom = 2.0
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_e65rf"]
+bg_color = Color(0.6, 0.6, 0.6, 0)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(0, 0.74902, 0.270588, 1)
+expand_margin_left = 2.0
+expand_margin_top = 2.0
+expand_margin_right = 2.0
+expand_margin_bottom = 2.0
+
+[node name="KaraokeMaker" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_qhulp")
+karaoke_song = ExtResource("2_j448g")
+
+[node name="HSlider" type="HSlider" parent="."]
+unique_name_in_owner = true
+layout_mode = 0
+offset_left = 45.0
+offset_top = 184.0
+offset_right = 1115.0
+offset_bottom = 209.0
+max_value = 1.0
+step = 0.001
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
+unique_name_in_owner = true
+stream = ExtResource("2_73x3m")
+
+[node name="LineContainer" type="HBoxContainer" parent="."]
+unique_name_in_owner = true
+layout_mode = 0
+offset_left = 20.0
+offset_top = 292.0
+offset_right = 1131.0
+offset_bottom = 430.0
+alignment = 1
+
+[node name="TokenSelectRect" type="Panel" parent="."]
+unique_name_in_owner = true
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+theme_override_styles/panel = SubResource("StyleBoxFlat_m37gn")
+
+[node name="CurrentWordRect" type="Panel" parent="."]
+unique_name_in_owner = true
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+theme_override_styles/panel = SubResource("StyleBoxFlat_e65rf")
